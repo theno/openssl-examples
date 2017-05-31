@@ -6,8 +6,8 @@ ___Please contribute and send pull requests with commented code-examples or Open
 
 # OpenSSL Examples
 
-__Commented__ and __explained__ C-code examples which show how to use the API
-of OpenSSL.
+__Commented__ and __explained__ C-code examples which show how to use the API of
+[OpenSSL](https://www.openssl.org/).
 
 
 ## Usage
