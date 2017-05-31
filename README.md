@@ -1,7 +1,14 @@
+
+----
+___Please contribute and send pull requests with commented code-examples or OpenSSL programming links.___
+
+----
+
 # OpenSSL Examples
 
 __Commented__ and __explained__ C-code examples which show how to use the API
 of OpenSSL.
+
 
 ## Usage
 
