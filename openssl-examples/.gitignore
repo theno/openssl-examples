@@ -1,0 +1,5 @@
+# ignore (binary and *_output) files without ending
+# cf. https://stackoverflow.com/a/25592735
+*
+!*/
+!*.*
